@@ -197,7 +197,7 @@ export default function LandingPage() {
   }
 
   const confirmDownload = () => {
-    window.open("https://cf-file-paste.ftube-net.workers.dev/d/b64203b4-a509-487b-910d-e004acacef77", "_blank")
+    window.open("http://192.168.1.1", "_blank")
     setShowDownloadDialog(false)
     setShowVirusDialog(false)
   }
